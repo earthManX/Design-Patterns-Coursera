@@ -1,6 +1,5 @@
-package Behavioural.MVC;
+package MVC;
 
-import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 
