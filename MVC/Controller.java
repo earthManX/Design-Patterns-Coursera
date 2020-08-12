@@ -1,4 +1,4 @@
-package Behavioural.MVC;
+package MVC;
 
 public class Controller {
     
